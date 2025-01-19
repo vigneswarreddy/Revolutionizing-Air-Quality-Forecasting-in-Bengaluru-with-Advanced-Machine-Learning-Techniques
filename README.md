@@ -1,2 +1,3 @@
 # Revolutionizing-Air-Quality-Forecasting-in-Bengaluru-with-Advanced-Machine-Learning-Techniques
 Gathered air quality data from CPCB Website and converted it into AQI Values for model training. Implemented and trained machine learning models like regression, decision trees to predict AQI. Evaluated model performance using metrics like RMSE and R² and deployed the best model for real-time AQI prediction.
+Neeraja, A., Begum, C.M., Reddy, K.V., Smitha, T.V. and Neelima, N., 2024, October. Revolutionizing Air Quality Forecasting in Bengaluru with Advanced Machine Learning Techniques. In 2024 First International Conference on Innovations in Communications, Electrical and Computer Engineering (ICICEC) (pp. 1-6). IEEE.https://ieeexplore.ieee.org/abstract/document/10808771
